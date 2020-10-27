@@ -4,15 +4,11 @@
 * 空白工程
 * GPIO_KEY (GPIO输入）
 * GPIO_LED（GPIO输出）
-* PWM控制RGB灯
 * PWM控制蜂鸣器
 * 外部中断
 * ADC采集
 * flash读写实验
 * OLED显示实验
-* 菜单调参
-* 数码管驱动
-* Ov7725摄像头驱动
 *外部中断
 *定时器中断
 
